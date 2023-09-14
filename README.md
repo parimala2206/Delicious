@@ -1,3 +1,3 @@
 # Delicious-Restaurant
 
-## Beautiful website made with HTML&CSS
+### Beautiful website made with HTML&CSS
